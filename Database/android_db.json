@@ -1,0 +1,63 @@
+{
+  "Category": {
+    "01": {
+      "name": "French Fries",
+      "image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-fingerfoods2.jpg"
+    },
+    "02": {
+      "name": "Chickens",
+      "image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-chicken.jpg"
+    },
+    "03": {
+      "name": "Burgers",
+      "image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-snacks.jpg"
+    },
+    "04": {
+      "name": "Onion Rings",
+      "image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-delights.jpg"
+    }
+  },
+  "User" : {
+    "1112223333" : {
+      "name" : "John",
+      "password" : "1234",
+      "phone": "1112223333"
+    },
+    "2223334444" : {
+      "name" : "Jack",
+      "password" : "4567",
+      "phone": "2223334444"
+    }
+  },
+  "Food": {
+    "01": {
+      "name": "French Fries",
+      "image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-fingerfoods2.jpg",
+      "price": "2.5",
+      "description": "French Fries",
+      "discount": "0"
+    },
+    "02": {
+      "name": "Chickens",
+      "image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-chicken.jpg",
+      "price": "7",
+      "description": "Chicken",
+      "discount": "0"
+    },
+    "03": {
+      "name": "Burgers",
+      "image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-snacks.jpg",
+      "price": "5",
+      "description": "Burgers",
+      "discount": "0"
+    },
+    "04": {
+      "name": "Onion Rings",
+      "image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-delights.jpg",
+      "price": "3.5",
+      "description": "Onion Rings",
+      "discount": "0"
+    }
+  }
+}
+

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1046843263876",
+    "firebase_url": "https://androidorder-42a2c.firebaseio.com",
+    "project_id": "androidorder-42a2c",
+    "storage_bucket": "androidorder-42a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046843263876:android:ced18a99edc1b4d8",
+        "android_client_info": {
+          "package_name": "com.example.amitm.ordereatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046843263876-0p3ch00o2mc0kob14miop7rvvm04j8t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amitm.ordereatapp",
+            "certificate_hash": "2535a3c4908dbf69de7c29c6c8a363aaab3de468"
+          }
+        },
+        {
+          "client_id": "1046843263876-d6spm20p5srhr4geg83t9n44oeenlns1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClfrLVAZALRJYWoGDqt7wKNtQ1CdoNXxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046843263876-d6spm20p5srhr4geg83t9n44oeenlns1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
